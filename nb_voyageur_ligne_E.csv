@@ -1,0 +1,316 @@
+Nom gare,Code Gare,Type jour,Date de comptage,Ligne,Tranche horaire,Montants
+Bondy,87113407,JOB,2012-09-13,E,De 16h à 20h,2731
+Bondy,87113407,Samedi,2012-09-22,E,Avant 6h,163
+Bondy,87113407,Dimanche,2012-09-23,E,Avant 6h,166
+Bondy,87113407,Dimanche,2012-09-23,E,De 10h à 16h,2727
+Bondy,87113407,Dimanche,2012-09-23,E,De 16h à 20h,1819
+Bondy,87113407,JOB,2012-09-13,E,De 6h à 10h,6896
+Bondy,87113407,JOB,2012-09-13,E,Avant 6h,336
+Bondy,87113407,Samedi,2012-09-22,E,De 10h à 16h,4251
+Bondy,87113407,Samedi,2012-09-22,E,De 16h à 20h,2441
+Bondy,87113407,JOB,2012-09-13,E,De 10h à 16h,3175
+Bondy,87113407,Dimanche,2012-09-23,E,Après 20h,640
+Bondy,87113407,JOB,2012-09-13,E,Après 20h,620
+Bondy,87113407,Dimanche,2012-09-23,E,De 6h à 10h,919
+Bondy,87113407,Samedi,2012-09-22,E,De 6h à 10h,2141
+Bondy,87113407,Samedi,2012-09-22,E,Après 20h,895
+Chelles Gournay,87116111,Dimanche,2012-09-23,E,De 10h à 16h,1524
+Chelles Gournay,87116111,Dimanche,2012-09-23,E,De 6h à 10h,497
+Chelles Gournay,87116111,Dimanche,2012-09-23,E,Après 20h,620
+Chelles Gournay,87116111,JOB,2012-09-13,E,Avant 6h,203
+Chelles Gournay,87116111,JOB,2012-09-13,E,Après 20h,391
+Chelles Gournay,87116111,Dimanche,2012-09-23,E,De 16h à 20h,1155
+Chelles Gournay,87116111,Samedi,2012-09-22,E,De 16h à 20h,1231
+Chelles Gournay,87116111,Samedi,2012-09-22,E,Après 20h,717
+Chelles Gournay,87116111,Samedi,2012-09-22,E,Avant 6h,74
+Chelles Gournay,87116111,Samedi,2012-09-22,E,De 10h à 16h,2333
+Chelles Gournay,87116111,Samedi,2012-09-22,E,De 6h à 10h,1124
+Chelles Gournay,87116111,JOB,2012-09-13,E,De 16h à 20h,1687
+Chelles Gournay,87116111,JOB,2012-09-13,E,De 10h à 16h,1861
+Chelles Gournay,87116111,Dimanche,2012-09-23,E,Avant 6h,39
+Chelles Gournay,87116111,JOB,2012-09-13,E,De 6h à 10h,4333
+Emerainville Pontault Combault,87116046,JOB,2012-09-13,E,De 6h à 10h,4788
+Emerainville Pontault Combault,87116046,Samedi,2012-09-22,E,Avant 6h,74
+Emerainville Pontault Combault,87116046,JOB,2012-09-13,E,De 10h à 16h,1575
+Emerainville Pontault Combault,87116046,Samedi,2012-09-22,E,Après 20h,455
+Emerainville Pontault Combault,87116046,Samedi,2012-09-22,E,De 10h à 16h,1583
+Emerainville Pontault Combault,87116046,Samedi,2012-09-22,E,De 16h à 20h,880
+Emerainville Pontault Combault,87116046,JOB,2012-09-13,E,De 16h à 20h,1467
+Emerainville Pontault Combault,87116046,Dimanche,2012-09-23,E,Avant 6h,30
+Emerainville Pontault Combault,87116046,Dimanche,2012-09-23,E,De 10h à 16h,1364
+Emerainville Pontault Combault,87116046,Dimanche,2012-09-23,E,De 16h à 20h,1238
+Emerainville Pontault Combault,87116046,JOB,2012-09-13,E,Après 20h,328
+Emerainville Pontault Combault,87116046,Dimanche,2012-09-23,E,De 6h à 10h,387
+Emerainville Pontault Combault,87116046,Samedi,2012-09-22,E,De 6h à 10h,824
+Emerainville Pontault Combault,87116046,Dimanche,2012-09-23,E,Après 20h,437
+Emerainville Pontault Combault,87116046,JOB,2012-09-13,E,Avant 6h,139
+Gagny,87113514,Samedi,2012-09-22,E,De 10h à 16h,2268
+Gagny,87113514,Samedi,2012-09-22,E,Avant 6h,99
+Gagny,87113514,JOB,2012-09-13,E,De 6h à 10h,4660
+Gagny,87113514,JOB,2012-09-13,E,De 10h à 16h,1927
+Gagny,87113514,Samedi,2012-09-22,E,Après 20h,424
+Gagny,87113514,JOB,2012-09-13,E,Après 20h,328
+Gagny,87113514,Dimanche,2012-09-23,E,De 10h à 16h,1391
+Gagny,87113514,Dimanche,2012-09-23,E,De 6h à 10h,453
+Gagny,87113514,Samedi,2012-09-22,E,De 6h à 10h,994
+Gagny,87113514,Dimanche,2012-09-23,E,De 16h à 20h,871
+Gagny,87113514,Samedi,2012-09-22,E,De 16h à 20h,1125
+Gagny,87113514,JOB,2012-09-13,E,De 16h à 20h,1397
+Gagny,87113514,Dimanche,2012-09-23,E,Après 20h,344
+Gagny,87113514,Dimanche,2012-09-23,E,Avant 6h,40
+Gagny,87113514,JOB,2012-09-13,E,Avant 6h,238
+Gretz Armainvilliers,87116012,Samedi,2012-09-22,E,De 16h à 20h,204
+Gretz Armainvilliers,87116012,Dimanche,2012-09-23,E,Avant 6h,9
+Gretz Armainvilliers,87116012,Samedi,2012-09-22,E,De 6h à 10h,231
+Gretz Armainvilliers,87116012,Dimanche,2012-09-23,E,De 10h à 16h,219
+Gretz Armainvilliers,87116012,Dimanche,2012-09-23,E,De 16h à 20h,180
+Gretz Armainvilliers,87116012,Samedi,2012-09-22,E,Avant 6h,21
+Gretz Armainvilliers,87116012,JOB,2012-09-13,E,De 6h à 10h,1077
+Gretz Armainvilliers,87116012,Dimanche,2012-09-23,E,De 6h à 10h,90
+Gretz Armainvilliers,87116012,Dimanche,2012-09-23,E,Après 20h,36
+Gretz Armainvilliers,87116012,Samedi,2012-09-22,E,De 10h à 16h,322
+Gretz Armainvilliers,87116012,JOB,2012-09-13,E,De 10h à 16h,270
+Gretz Armainvilliers,87116012,JOB,2012-09-13,E,De 16h à 20h,193
+Gretz Armainvilliers,87116012,Samedi,2012-09-22,E,Après 20h,42
+Gretz Armainvilliers,87116012,JOB,2012-09-13,E,Après 20h,58
+Gretz Armainvilliers,87116012,JOB,2012-09-13,E,Avant 6h,84
+Haussmann Saint-Lazare,87281899,Dimanche,2012-09-23,E,De 16h à 20h,8791
+Haussmann Saint-Lazare,87281899,Dimanche,2012-09-23,E,De 6h à 10h,1951
+Haussmann Saint-Lazare,87281899,Samedi,2012-09-22,E,De 16h à 20h,14314
+Haussmann Saint-Lazare,87281899,Samedi,2012-09-22,E,Avant 6h,165
+Haussmann Saint-Lazare,87281899,JOB,2012-09-13,E,Avant 6h,324
+Haussmann Saint-Lazare,87281899,Samedi,2012-09-22,E,De 10h à 16h,11958
+Haussmann Saint-Lazare,87281899,Dimanche,2012-09-23,E,Après 20h,5259
+Haussmann Saint-Lazare,87281899,JOB,2012-09-13,E,Après 20h,8017
+Haussmann Saint-Lazare,87281899,JOB,2012-09-13,E,De 10h à 16h,13920
+Haussmann Saint-Lazare,87281899,Samedi,2012-09-22,E,Après 20h,8055
+Haussmann Saint-Lazare,87281899,Dimanche,2012-09-23,E,Avant 6h,115
+Haussmann Saint-Lazare,87281899,Dimanche,2012-09-23,E,De 10h à 16h,7823
+Haussmann Saint-Lazare,87281899,Samedi,2012-09-22,E,De 6h à 10h,3037
+Haussmann Saint-Lazare,87281899,JOB,2012-09-13,E,De 16h à 20h,45383
+Haussmann Saint-Lazare,87281899,JOB,2012-09-13,E,De 6h à 10h,10719
+Le Chénay Gagny,87113522,Dimanche,2012-09-23,E,De 6h à 10h,315
+Le Chénay Gagny,87113522,Samedi,2012-09-22,E,De 16h à 20h,604
+Le Chénay Gagny,87113522,Samedi,2012-09-22,E,De 6h à 10h,732
+Le Chénay Gagny,87113522,Dimanche,2012-09-23,E,Après 20h,167
+Le Chénay Gagny,87113522,Dimanche,2012-09-23,E,De 10h à 16h,858
+Le Chénay Gagny,87113522,Dimanche,2012-09-23,E,De 16h à 20h,563
+Le Chénay Gagny,87113522,Samedi,2012-09-22,E,De 10h à 16h,1289
+Le Chénay Gagny,87113522,JOB,2012-09-13,E,De 16h à 20h,592
+Le Chénay Gagny,87113522,Dimanche,2012-09-23,E,Avant 6h,28
+Le Chénay Gagny,87113522,JOB,2012-09-13,E,Avant 6h,138
+Le Chénay Gagny,87113522,JOB,2012-09-13,E,De 6h à 10h,3215
+Le Chénay Gagny,87113522,JOB,2012-09-13,E,De 10h à 16h,972
+Le Chénay Gagny,87113522,Samedi,2012-09-22,E,Avant 6h,60
+Le Chénay Gagny,87113522,Samedi,2012-09-22,E,Après 20h,314
+Le Chénay Gagny,87113522,JOB,2012-09-13,E,Après 20h,215
+Le Raincy Villemomble Montfermeil,87113472,Dimanche,2012-09-23,E,De 10h à 16h,2185
+Le Raincy Villemomble Montfermeil,87113472,Dimanche,2012-09-23,E,Après 20h,526
+Le Raincy Villemomble Montfermeil,87113472,Dimanche,2012-09-23,E,De 16h à 20h,1639
+Le Raincy Villemomble Montfermeil,87113472,JOB,2012-09-13,E,De 16h à 20h,2437
+Le Raincy Villemomble Montfermeil,87113472,JOB,2012-09-13,E,De 6h à 10h,7218
+Le Raincy Villemomble Montfermeil,87113472,JOB,2012-09-13,E,Après 20h,613
+Le Raincy Villemomble Montfermeil,87113472,Samedi,2012-09-22,E,De 6h à 10h,1825
+Le Raincy Villemomble Montfermeil,87113472,JOB,2012-09-13,E,De 10h à 16h,3480
+Le Raincy Villemomble Montfermeil,87113472,Dimanche,2012-09-23,E,Avant 6h,71
+Le Raincy Villemomble Montfermeil,87113472,JOB,2012-09-13,E,Avant 6h,583
+Le Raincy Villemomble Montfermeil,87113472,Dimanche,2012-09-23,E,De 6h à 10h,857
+Le Raincy Villemomble Montfermeil,87113472,Samedi,2012-09-22,E,De 10h à 16h,3742
+Le Raincy Villemomble Montfermeil,87113472,Samedi,2012-09-22,E,De 16h à 20h,1786
+Le Raincy Villemomble Montfermeil,87113472,Samedi,2012-09-22,E,Après 20h,898
+Le Raincy Villemomble Montfermeil,87113472,Samedi,2012-09-22,E,Avant 6h,188
+Les Boullereaux Champigny,87113779,JOB,2012-09-13,E,De 10h à 16h,882
+Les Boullereaux Champigny,87113779,Samedi,2012-09-22,E,Avant 6h,69
+Les Boullereaux Champigny,87113779,Dimanche,2012-09-23,E,De 16h à 20h,561
+Les Boullereaux Champigny,87113779,Dimanche,2012-09-23,E,Après 20h,206
+Les Boullereaux Champigny,87113779,JOB,2012-09-13,E,Après 20h,207
+Les Boullereaux Champigny,87113779,JOB,2012-09-13,E,Avant 6h,147
+Les Boullereaux Champigny,87113779,Dimanche,2012-09-23,E,De 10h à 16h,912
+Les Boullereaux Champigny,87113779,Dimanche,2012-09-23,E,De 6h à 10h,296
+Les Boullereaux Champigny,87113779,Samedi,2012-09-22,E,Après 20h,313
+Les Boullereaux Champigny,87113779,Samedi,2012-09-22,E,De 6h à 10h,583
+Les Boullereaux Champigny,87113779,JOB,2012-09-13,E,De 6h à 10h,2124
+Les Boullereaux Champigny,87113779,Dimanche,2012-09-23,E,Avant 6h,39
+Les Boullereaux Champigny,87113779,Samedi,2012-09-22,E,De 10h à 16h,1303
+Les Boullereaux Champigny,87113779,JOB,2012-09-13,E,De 16h à 20h,750
+Les Boullereaux Champigny,87113779,Samedi,2012-09-22,E,De 16h à 20h,761
+Les Yvris Noisy le Grand,87113803,Dimanche,2012-09-23,E,De 6h à 10h,46
+Les Yvris Noisy le Grand,87113803,Samedi,2012-09-22,E,Après 20h,64
+Les Yvris Noisy le Grand,87113803,Samedi,2012-09-22,E,De 16h à 20h,136
+Les Yvris Noisy le Grand,87113803,JOB,2012-09-13,E,De 10h à 16h,204
+Les Yvris Noisy le Grand,87113803,JOB,2012-09-13,E,Après 20h,31
+Les Yvris Noisy le Grand,87113803,Dimanche,2012-09-23,E,Après 20h,33
+Les Yvris Noisy le Grand,87113803,Dimanche,2012-09-23,E,Avant 6h,6
+Les Yvris Noisy le Grand,87113803,Samedi,2012-09-22,E,Avant 6h,1
+Les Yvris Noisy le Grand,87113803,JOB,2012-09-13,E,De 6h à 10h,1032
+Les Yvris Noisy le Grand,87113803,Samedi,2012-09-22,E,De 10h à 16h,197
+Les Yvris Noisy le Grand,87113803,Dimanche,2012-09-23,E,De 10h à 16h,154
+Les Yvris Noisy le Grand,87113803,Dimanche,2012-09-23,E,De 16h à 20h,89
+Les Yvris Noisy le Grand,87113803,Samedi,2012-09-22,E,De 6h à 10h,98
+Les Yvris Noisy le Grand,87113803,JOB,2012-09-13,E,De 16h à 20h,252
+Les Yvris Noisy le Grand,87113803,JOB,2012-09-13,E,Avant 6h,16
+Magenta,87281873,Samedi,2012-09-22,E,Avant 6h,361
+Magenta,87281873,Dimanche,2012-09-23,E,De 10h à 16h,10312
+Magenta,87281873,Samedi,2012-09-22,E,De 10h à 16h,15712
+Magenta,87281873,Samedi,2012-09-22,E,De 6h à 10h,5381
+Magenta,87281873,Samedi,2012-09-22,E,Après 20h,10339
+Magenta,87281873,Dimanche,2012-09-23,E,De 16h à 20h,11266
+Magenta,87281873,JOB,2012-09-13,E,De 6h à 10h,23382
+Magenta,87281873,JOB,2012-09-13,E,Après 20h,8629
+Magenta,87281873,JOB,2012-09-13,E,Avant 6h,620
+Magenta,87281873,Dimanche,2012-09-23,E,De 6h à 10h,2956
+Magenta,87281873,Dimanche,2012-09-23,E,Après 20h,7433
+Magenta,87281873,JOB,2012-09-13,E,De 16h à 20h,31202
+Magenta,87281873,Samedi,2012-09-22,E,De 16h à 20h,15255
+Magenta,87281873,Dimanche,2012-09-23,E,Avant 6h,306
+Magenta,87281873,JOB,2012-09-13,E,De 10h à 16h,14379
+Nogent le Perreux,87113746,Dimanche,2012-09-23,E,De 16h à 20h,684
+Nogent le Perreux,87113746,Dimanche,2012-09-23,E,Après 20h,259
+Nogent le Perreux,87113746,Samedi,2012-09-22,E,De 10h à 16h,1881
+Nogent le Perreux,87113746,JOB,2012-09-13,E,De 16h à 20h,1733
+Nogent le Perreux,87113746,Samedi,2012-09-22,E,Avant 6h,51
+Nogent le Perreux,87113746,JOB,2012-09-13,E,Après 20h,411
+Nogent le Perreux,87113746,JOB,2012-09-13,E,De 10h à 16h,1661
+Nogent le Perreux,87113746,Samedi,2012-09-22,E,De 16h à 20h,1243
+Nogent le Perreux,87113746,Samedi,2012-09-22,E,Après 20h,427
+Nogent le Perreux,87113746,Dimanche,2012-09-23,E,De 10h à 16h,1002
+Nogent le Perreux,87113746,JOB,2012-09-13,E,Avant 6h,91
+Nogent le Perreux,87113746,Dimanche,2012-09-23,E,De 6h à 10h,253
+Nogent le Perreux,87113746,Samedi,2012-09-22,E,De 6h à 10h,844
+Nogent le Perreux,87113746,JOB,2012-09-13,E,De 6h à 10h,3888
+Nogent le Perreux,87113746,Dimanche,2012-09-23,E,Avant 6h,15
+Noisy le Sec,87113217,JOB,2012-09-13,E,Après 20h,1865
+Noisy le Sec,87113217,Dimanche,2012-09-23,E,Après 20h,1792
+Noisy le Sec,87113217,Samedi,2012-09-22,E,Après 20h,2554
+Noisy le Sec,87113217,Dimanche,2012-09-23,E,De 10h à 16h,5450
+Noisy le Sec,87113217,JOB,2012-09-13,E,De 16h à 20h,6607
+Noisy le Sec,87113217,Samedi,2012-09-22,E,De 16h à 20h,5507
+Noisy le Sec,87113217,JOB,2012-09-13,E,De 10h à 16h,6492
+Noisy le Sec,87113217,Samedi,2012-09-22,E,De 10h à 16h,7590
+Noisy le Sec,87113217,JOB,2012-09-13,E,De 6h à 10h,9213
+Noisy le Sec,87113217,Dimanche,2012-09-23,E,Avant 6h,143
+Noisy le Sec,87113217,JOB,2012-09-13,E,Avant 6h,560
+Noisy le Sec,87113217,Dimanche,2012-09-23,E,De 16h à 20h,4088
+Noisy le Sec,87113217,Dimanche,2012-09-23,E,De 6h à 10h,1681
+Noisy le Sec,87113217,Samedi,2012-09-22,E,De 6h à 10h,3402
+Noisy le Sec,87113217,Samedi,2012-09-22,E,Avant 6h,239
+Ozoir la Ferrière,87116020,Samedi,2012-09-22,E,De 16h à 20h,404
+Ozoir la Ferrière,87116020,Samedi,2012-09-22,E,De 6h à 10h,394
+Ozoir la Ferrière,87116020,JOB,2012-09-13,E,De 10h à 16h,685
+Ozoir la Ferrière,87116020,Samedi,2012-09-22,E,Après 20h,135
+Ozoir la Ferrière,87116020,Samedi,2012-09-22,E,Avant 6h,44
+Ozoir la Ferrière,87116020,Dimanche,2012-09-23,E,De 16h à 20h,360
+Ozoir la Ferrière,87116020,Dimanche,2012-09-23,E,De 6h à 10h,139
+Ozoir la Ferrière,87116020,JOB,2012-09-13,E,De 16h à 20h,582
+Ozoir la Ferrière,87116020,Dimanche,2012-09-23,E,De 10h à 16h,599
+Ozoir la Ferrière,87116020,Dimanche,2012-09-23,E,Après 20h,106
+Ozoir la Ferrière,87116020,Dimanche,2012-09-23,E,Avant 6h,22
+Ozoir la Ferrière,87116020,JOB,2012-09-13,E,Après 20h,102
+Ozoir la Ferrière,87116020,Samedi,2012-09-22,E,De 10h à 16h,702
+Ozoir la Ferrière,87116020,JOB,2012-09-13,E,De 6h à 10h,2510
+Ozoir la Ferrière,87116020,JOB,2012-09-13,E,Avant 6h,89
+Pantin,87113209,Dimanche,2012-09-23,E,De 6h à 10h,641
+Pantin,87113209,JOB,2012-09-13,E,De 16h à 20h,6969
+Pantin,87113209,JOB,2012-09-13,E,Avant 6h,194
+Pantin,87113209,Dimanche,2012-09-23,E,De 16h à 20h,1748
+Pantin,87113209,Samedi,2012-09-22,E,Avant 6h,125
+Pantin,87113209,Dimanche,2012-09-23,E,Après 20h,920
+Pantin,87113209,Samedi,2012-09-22,E,De 10h à 16h,2926
+Pantin,87113209,Samedi,2012-09-22,E,De 6h à 10h,1427
+Pantin,87113209,JOB,2012-09-13,E,De 10h à 16h,2872
+Pantin,87113209,JOB,2012-09-13,E,De 6h à 10h,3517
+Pantin,87113209,Dimanche,2012-09-23,E,Avant 6h,61
+Pantin,87113209,Dimanche,2012-09-23,E,De 10h à 16h,2155
+Pantin,87113209,JOB,2012-09-13,E,Après 20h,1490
+Pantin,87113209,Samedi,2012-09-22,E,De 16h à 20h,2393
+Pantin,87113209,Samedi,2012-09-22,E,Après 20h,1216
+Roissy en Brie,87116038,JOB,2012-09-13,E,De 10h à 16h,1108
+Roissy en Brie,87116038,Samedi,2012-09-22,E,De 10h à 16h,1473
+Roissy en Brie,87116038,Samedi,2012-09-22,E,Avant 6h,103
+Roissy en Brie,87116038,Samedi,2012-09-22,E,De 6h à 10h,616
+Roissy en Brie,87116038,Samedi,2012-09-22,E,Après 20h,283
+Roissy en Brie,87116038,Dimanche,2012-09-23,E,Avant 6h,28
+Roissy en Brie,87116038,JOB,2012-09-13,E,De 6h à 10h,3101
+Roissy en Brie,87116038,Dimanche,2012-09-23,E,De 10h à 16h,1052
+Roissy en Brie,87116038,Dimanche,2012-09-23,E,De 16h à 20h,597
+Roissy en Brie,87116038,Dimanche,2012-09-23,E,De 6h à 10h,335
+Roissy en Brie,87116038,Samedi,2012-09-22,E,De 16h à 20h,697
+Roissy en Brie,87116038,JOB,2012-09-13,E,De 16h à 20h,810
+Roissy en Brie,87116038,Dimanche,2012-09-23,E,Après 20h,306
+Roissy en Brie,87116038,JOB,2012-09-13,E,Avant 6h,71
+Roissy en Brie,87116038,JOB,2012-09-13,E,Après 20h,159
+Rosny Bois Perrier,87113696,JOB,2012-09-13,E,Avant 6h,177
+Rosny Bois Perrier,87113696,Samedi,2012-09-22,E,De 10h à 16h,3446
+Rosny Bois Perrier,87113696,Samedi,2012-09-22,E,Après 20h,1662
+Rosny Bois Perrier,87113696,Dimanche,2012-09-23,E,De 10h à 16h,1661
+Rosny Bois Perrier,87113696,JOB,2012-09-13,E,De 16h à 20h,2761
+Rosny Bois Perrier,87113696,Dimanche,2012-09-23,E,De 16h à 20h,1567
+Rosny Bois Perrier,87113696,Samedi,2012-09-22,E,De 6h à 10h,897
+Rosny Bois Perrier,87113696,Dimanche,2012-09-23,E,Après 20h,653
+Rosny Bois Perrier,87113696,JOB,2012-09-13,E,De 6h à 10h,2918
+Rosny Bois Perrier,87113696,Samedi,2012-09-22,E,Avant 6h,83
+Rosny Bois Perrier,87113696,Dimanche,2012-09-23,E,De 6h à 10h,440
+Rosny Bois Perrier,87113696,JOB,2012-09-13,E,Après 20h,1033
+Rosny Bois Perrier,87113696,Samedi,2012-09-22,E,De 16h à 20h,4091
+Rosny Bois Perrier,87113696,Dimanche,2012-09-23,E,Avant 6h,35
+Rosny Bois Perrier,87113696,JOB,2012-09-13,E,De 10h à 16h,2594
+Rosny sous Bois,87113704,Dimanche,2012-09-23,E,De 16h à 20h,1069
+Rosny sous Bois,87113704,Samedi,2012-09-22,E,De 10h à 16h,2429
+Rosny sous Bois,87113704,JOB,2012-09-13,E,De 16h à 20h,1507
+Rosny sous Bois,87113704,Samedi,2012-09-22,E,De 16h à 20h,1394
+Rosny sous Bois,87113704,Samedi,2012-09-22,E,Après 20h,635
+Rosny sous Bois,87113704,Samedi,2012-09-22,E,Avant 6h,111
+Rosny sous Bois,87113704,JOB,2012-09-13,E,Après 20h,361
+Rosny sous Bois,87113704,Dimanche,2012-09-23,E,De 10h à 16h,1694
+Rosny sous Bois,87113704,Dimanche,2012-09-23,E,De 6h à 10h,531
+Rosny sous Bois,87113704,Dimanche,2012-09-23,E,Avant 6h,45
+Rosny sous Bois,87113704,JOB,2012-09-13,E,Avant 6h,182
+Rosny sous Bois,87113704,JOB,2012-09-13,E,De 6h à 10h,3979
+Rosny sous Bois,87113704,Dimanche,2012-09-23,E,Après 20h,441
+Rosny sous Bois,87113704,Samedi,2012-09-22,E,De 6h à 10h,1131
+Rosny sous Bois,87113704,JOB,2012-09-13,E,De 10h à 16h,1846
+Tournan,87116210,Dimanche,2012-09-23,E,De 10h à 16h,276
+Tournan,87116210,Dimanche,2012-09-23,E,De 6h à 10h,103
+Tournan,87116210,Dimanche,2012-09-23,E,Après 20h,53
+Tournan,87116210,Dimanche,2012-09-23,E,Avant 6h,21
+Tournan,87116210,Samedi,2012-09-22,E,Avant 6h,52
+Tournan,87116210,JOB,2012-09-13,E,Avant 6h,124
+Tournan,87116210,Dimanche,2012-09-23,E,De 16h à 20h,232
+Tournan,87116210,Samedi,2012-09-22,E,De 10h à 16h,422
+Tournan,87116210,JOB,2012-09-13,E,De 10h à 16h,466
+Tournan,87116210,JOB,2012-09-13,E,De 16h à 20h,504
+Tournan,87116210,Samedi,2012-09-22,E,Après 20h,77
+Tournan,87116210,JOB,2012-09-13,E,Après 20h,54
+Tournan,87116210,Samedi,2012-09-22,E,De 16h à 20h,337
+Tournan,87116210,Samedi,2012-09-22,E,De 6h à 10h,246
+Tournan,87116210,JOB,2012-09-13,E,De 6h à 10h,1350
+Val de Fontenay,87113712,Samedi,2012-09-22,E,De 6h à 10h,1551
+Val de Fontenay,87113712,Dimanche,2012-09-23,E,Avant 6h,38
+Val de Fontenay,87113712,Dimanche,2012-09-23,E,De 16h à 20h,2954
+Val de Fontenay,87113712,JOB,2012-09-13,E,Après 20h,3133
+Val de Fontenay,87113712,JOB,2012-09-13,E,De 16h à 20h,13225
+Val de Fontenay,87113712,JOB,2012-09-13,E,De 6h à 10h,7838
+Val de Fontenay,87113712,Dimanche,2012-09-23,E,De 6h à 10h,866
+Val de Fontenay,87113712,Dimanche,2012-09-23,E,Après 20h,1676
+Val de Fontenay,87113712,Dimanche,2012-09-23,E,De 10h à 16h,3274
+Val de Fontenay,87113712,Samedi,2012-09-22,E,De 16h à 20h,5044
+Val de Fontenay,87113712,JOB,2012-09-13,E,Avant 6h,160
+Val de Fontenay,87113712,Samedi,2012-09-22,E,Après 20h,2830
+Val de Fontenay,87113712,Samedi,2012-09-22,E,Avant 6h,120
+Val de Fontenay,87113712,Samedi,2012-09-22,E,De 10h à 16h,5141
+Val de Fontenay,87113712,JOB,2012-09-13,E,De 10h à 16h,4698
+Villiers sur Marne Le Plessis Trévise,87113795,Samedi,2012-09-22,E,De 16h à 20h,2174
+Villiers sur Marne Le Plessis Trévise,87113795,Dimanche,2012-09-23,E,Avant 6h,60
+Villiers sur Marne Le Plessis Trévise,87113795,Samedi,2012-09-22,E,Avant 6h,175
+Villiers sur Marne Le Plessis Trévise,87113795,JOB,2012-09-13,E,Après 20h,558
+Villiers sur Marne Le Plessis Trévise,87113795,JOB,2012-09-13,E,Avant 6h,384
+Villiers sur Marne Le Plessis Trévise,87113795,Samedi,2012-09-22,E,De 10h à 16h,3548
+Villiers sur Marne Le Plessis Trévise,87113795,Dimanche,2012-09-23,E,Après 20h,557
+Villiers sur Marne Le Plessis Trévise,87113795,Dimanche,2012-09-23,E,De 10h à 16h,2465
+Villiers sur Marne Le Plessis Trévise,87113795,Dimanche,2012-09-23,E,De 16h à 20h,1610
+Villiers sur Marne Le Plessis Trévise,87113795,JOB,2012-09-13,E,De 6h à 10h,8186
+Villiers sur Marne Le Plessis Trévise,87113795,Dimanche,2012-09-23,E,De 6h à 10h,687
+Villiers sur Marne Le Plessis Trévise,87113795,Samedi,2012-09-22,E,De 6h à 10h,1560
+Villiers sur Marne Le Plessis Trévise,87113795,JOB,2012-09-13,E,De 10h à 16h,2691
+Villiers sur Marne Le Plessis Trévise,87113795,JOB,2012-09-13,E,De 16h à 20h,2150
+Villiers sur Marne Le Plessis Trévise,87113795,Samedi,2012-09-22,E,Après 20h,1064
