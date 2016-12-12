@@ -6,6 +6,22 @@
 package etssi;
 
 import java.io.IOException;
+import java.sql.SQLException;
+import javax.swing.JDialog;
+import javax.swing.JFrame;
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartFrame;
+import org.jfree.chart.JFreeChart;
+import org.jfree.data.general.DefaultPieDataset;
+import org.jfree.chart.*;
+import org.jfree.chart.axis.NumberAxis;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.chart.plot.XYPlot;
+import org.jfree.chart.renderer.xy.XYItemRenderer;
+import org.jfree.data.xy.XYDataset;
+import org.jfree.data.xy.XYSeries;
+import org.jfree.data.xy.XYSeriesCollection;
+import org.jfree.ui.RefineryUtilities;
 
 /**
  *
@@ -16,10 +32,14 @@ public class ETSSI {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws IOException {
-        Dataset test = new Dataset("data/nb_voyageur_ligne_E.csv");
-        System.out.print(test.getData_array());
-        // TODO code application logic here
-    }
+    public static void main(String[] args) throws IOException, SQLException {
+       Dataset job = new Dataset("JOB");
+       Dataset samedi = new Dataset("samedi");
+       Dataset dimanche = new Dataset("dimanche");
+       final Graphique demo = new Graphique("Graphique", job, samedi, dimanche);
+       demo.pack();
+       RefineryUtilities.centerFrameOnScreen(demo);
+       demo.setVisible(true);      
+    }  
     
 }

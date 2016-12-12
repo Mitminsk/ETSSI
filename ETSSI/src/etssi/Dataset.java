@@ -6,10 +6,12 @@
 package etssi;
 
 import java.io.BufferedReader;
-import java.io.File;
+import java.io.File; 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -18,19 +20,93 @@ import java.util.List;
  * @author jehan
  */
 public class Dataset {
-    private ArrayList<Data> data_array;
-    private String fileName;
+    private ArrayList<Data> array = new ArrayList<Data>();
+    private String day; 
+
+
     
-    public Dataset(String fileName) throws IOException {
-        this.setFileName(fileName);
-        setData_array(this.readFile(this.getResource(this.fileName)));        
+    public Dataset(String day) throws IOException, SQLException {
+       Model model = new Model();        
+       this.initialize(model.select(day));       
+       
     }
     
-    public void test_fonction() throws IOException {
-       System.out.print(this.readFile(this.getResource(this.fileName)));
+    private void initialize(ResultSet resultset) throws SQLException{
+        ArrayList<Data> result = new ArrayList<Data>();
+        ArrayList<Integer> zero = new ArrayList<Integer>();
+        ArrayList<Integer> un = new ArrayList<Integer>(); 
+        ArrayList<Integer> deux = new ArrayList<Integer>(); 
+        ArrayList<Integer> trois = new ArrayList<Integer>(); 
+        ArrayList<Integer> quatre = new ArrayList<Integer>(); 
+        
+        while (resultset.next()){
+            
+           if (resultset.getInt("horaire") == 0) 
+           {
+               zero.add(resultset.getInt("nombre"));
+           }
+           
+           else if (resultset.getInt("horaire") == 1)
+           {
+               un.add(resultset.getInt("nombre"));
+           }
+           else if (resultset.getInt("horaire") == 2)
+           {
+               deux.add(resultset.getInt("nombre"));
+           }
+           else if (resultset.getInt("horaire") == 3)
+           {
+               trois.add(resultset.getInt("nombre"));
+           }
+           else 
+           {
+               quatre.add(resultset.getInt("nombre"));
+           }
+        }  
+        
+        int moyenne = 0 ;
+        
+        for(Integer nb : zero){
+           moyenne += nb;
+        }
+        
+        moyenne = moyenne / zero.size(); 
+        this.getArray().add(new Data(this.getDay(), 0, moyenne));
+        moyenne = 0;
+        
+        for(Integer nb : un){
+            moyenne += nb;
+        }
+        
+        moyenne = moyenne / un.size();
+        this.getArray().add(new Data(this.getDay(), 1, moyenne));
+        moyenne = 0;
+        
+        for(Integer nb : deux){
+            moyenne += nb;
+        }
+        
+        moyenne = moyenne / deux.size();
+        this.getArray().add(new Data(this.getDay(), 2, moyenne));
+        moyenne = 0;
+        
+        for(Integer nb : trois){
+            moyenne += nb;
+        }
+        
+        moyenne = moyenne / trois.size();
+        this.getArray().add(new Data(this.getDay(), 3, moyenne));
+        moyenne = 0;
+        
+            for(Integer nb : un){
+            moyenne += nb;
+        }
+        
+        moyenne = moyenne / quatre.size();
+        this.getArray().add(new Data(this.getDay(), 4, moyenne));
+        moyenne = 0;
     }
-    
-    private File getResource(String fileName) {
+  /*  private File getResource(String fileName) {
        File file = new File(fileName);
        return file;
    }
@@ -55,29 +131,35 @@ public class Dataset {
     /**
      * @return the data_array
      */
-    public ArrayList<Data> getData_array() {
-        return data_array;
+
+    /**
+     * @return the array
+     */
+    public ArrayList<Data> getArray() {
+        return array;
     }
 
     /**
-     * @param data_array the data_array to set
+     * @param array the array to set
      */
-    public void setData_array(ArrayList<Data> data_array) {
-        this.data_array = data_array;
+    public void setArray(ArrayList<Data> array) {
+        this.array = array;
     }
 
     /**
-     * @return the fileName
+     * @return the day
      */
-    public String getFileName() {
-        return fileName;
+    public String getDay() {
+        return day;
     }
 
     /**
-     * @param fileName the fileName to set
+     * @param day the day to set
      */
-    public void setFileName(String fileName) {
-        this.fileName = fileName;
+    public void setDay(String day) {
+        this.day = day;
     }
-
+    
+    
+   
 }

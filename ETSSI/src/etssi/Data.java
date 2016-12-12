@@ -13,8 +13,6 @@ import java.io.File;
  * @author jehan
  */
 public class Data {
-    private String nom_gare;
-    private Integer code_gare;
     private String type_jour;
     private Integer tranche_horaire; 
     private Integer montant; 
@@ -22,39 +20,10 @@ public class Data {
     /**
        * Constructor
     */
-    public Data(String nom_gare,Integer code_gare,String type_jour,Integer tranche_horaire,Integer montant) {
-        setNom_gare(nom_gare);
-        setCode_gare(code_gare);
-        setType_jour(type_jour);
-        setTranche_horaire(tranche_horaire);
-        setMontant(montant);
-    }
-    /**
-     * @return the nom_gare
-     */
-    public String getNom_gare() {
-        return nom_gare;
-    }
-
-    /**
-     * @param nom_gare the nom_gare to set
-     */
-    public void setNom_gare(String nom_gare) {
-        this.nom_gare = nom_gare;
-    }
-
-    /**
-     * @return the code_gare
-     */
-    public Integer getCode_gare() {
-        return code_gare;
-    }
-
-    /**
-     * @param code_gare the code_gare to set
-     */
-    public void setCode_gare(Integer code_gare) {
-        this.code_gare = code_gare;
+    public Data(String type_jour,Integer tranche_horaire,Integer montant) {
+       this.type_jour = type_jour;
+       this.tranche_horaire = tranche_horaire;
+       this.montant = montant; 
     }
 
     /**
@@ -98,4 +67,5 @@ public class Data {
     public void setMontant(Integer montant) {
         this.montant = montant;
     }
+
 }
